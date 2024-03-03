@@ -2,6 +2,9 @@
 
 This project is a simple full-stack application built with React, Node.js, and PostgreSQL. It allows users to manage and view customer records in a table format with search, pagination, and sorting functionalities.
 
+Explainatory video
+https://youtu.be/sY6joTLDAjY?si=gdXYxu1wU3uo_qI2
+
   Features
 
 - Display customer records in a table format
